@@ -1,0 +1,13 @@
+# ninja log v5
+12	686	7010473489939420	CMakeFiles/test1.dir/generator.cpp.obj	23a3fa74d937aa8f
+7	1884	7010476272797634	CMakeFiles/test1.dir/test.cpp.obj	712522ed2f170889
+1884	2096	7010476274642959	test1.exe	be098e0c635b7be8
+20	582	7010869542331834	CMakeFiles/main.dir/generator.cpp.obj	92b9b56b11a8d1d1
+17	581	7010869542321829	CMakeFiles/main.dir/main.cpp.obj	fb6b4e58bf062b7a
+582	806	7010869544211844	main.exe	6b4f50ad8bb0ee63
+8	343	7016473422522569	CMakeFiles/main.dir/main.cpp.obj	fb6b4e58bf062b7a
+11	345	7016473422542577	CMakeFiles/main.dir/generator.cpp.obj	92b9b56b11a8d1d1
+345	469	7016473423562561	main.exe	6b4f50ad8bb0ee63
+11	328	7016473536391252	CMakeFiles/test1.dir/generator.cpp.obj	23a3fa74d937aa8f
+8	1768	7016473550731252	CMakeFiles/test1.dir/test.cpp.obj	712522ed2f170889
+1768	1951	7016473552311282	test1.exe	be098e0c635b7be8
